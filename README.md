@@ -9,7 +9,7 @@
 ![Features](https://img.shields.io/badge/Features-Anomaly%20Detection%20%7C%20Scenarios%20%7C%20RBAC-purple)
 
 **🔗 Live Dashboard:** [bytebender77.github.io/airsight-ai](https://bytebender77.github.io/airsight-ai)  
-**📦 GitHub:** [github.com/bytebender77/airsight-ai-v2](https://github.com/bytebender77/airsight-ai-v2)
+**📦 GitHub:** [github.com/sujalkumar04/airsight_fullstack](https://github.com/sujalkumar04/airsight_fullstack)
 
 ---
 
